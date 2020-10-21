@@ -1,9 +1,0 @@
-<keymap version="1" name="XWin copy" parent="Default for XWin">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <mouse-shortcut keystroke="button4" />
-  </action>
-</keymap>
