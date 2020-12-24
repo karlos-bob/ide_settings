@@ -1,0 +1,67 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-02-13T10:16:18</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.1.4.0.0</property>
+    <property name="modified">2020-06-12T10:46:28</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="CSS.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="12c26a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="fffefa" />
+        <option name="BACKGROUND" value="cc000a" />
+      </value>
+    </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="8fc9ee" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="fb76a7" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="cc410a" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="898fb" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="68cd5b" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="e87503" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a943d6" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fd1813" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
