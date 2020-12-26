@@ -4,6 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code Retina" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
