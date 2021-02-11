@@ -568,6 +568,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.plugins.jade" />
               <option name="myPluginName" value="Pug (ex-Jade)" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1079,6 +1080,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.plugins.jade" />
               <option name="myPluginName" value="Pug (ex-Jade)" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
